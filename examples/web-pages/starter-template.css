@@ -1,0 +1,9 @@
+body {
+  padding-top: 40px;
+  background: #f4e842 !important;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.spacer { margin: 0; padding: 0; height: 40px; }
